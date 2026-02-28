@@ -50,3 +50,8 @@ After training, the model is evaluated on the test dataset. Performance metrics 
 Conclusion:
 
 This project successfully demonstrates the implementation of a CNN-based brain tumor classification system using MRI images. The model effectively learns complex image features and classifies tumors into four categories. The results highlight the potential of deep learning in assisting medical diagnosis. Future improvements may include the use of transfer learning and advanced architectures to further enhance performance and real-world applicability.
+
+OUTPUT
+
+<img width="572" height="455" alt="Image" src="https://github.com/user-attachments/assets/3dc3aca1-50d1-43cb-93ed-66a1a35da769" />
+
